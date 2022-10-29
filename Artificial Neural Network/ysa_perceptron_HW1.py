@@ -1,4 +1,4 @@
-from colorama import Fore
+from colorama import Fore #çıktıyı renklerdirmek için kullandığım kütüphane
 
 x1,x2,B1 = 1,2,0    #1. Örnek Değerleri
 x3,x4,B2 = 1,5,1    #2. Örnek Değerleri
